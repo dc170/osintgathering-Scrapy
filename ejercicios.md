@@ -1,10 +1,10 @@
 ## EJERCICIOS:
 
-####Pre-Básico: 
+#### Pre-Básico: 
 
 * Usar la shell de scrapy para descargar: https://www.reddit.com/r/loquesea (ex: https://www.reddit.com/r/politics/) y repetir los comandos usados en la demo
 
-####Básico:
+#### Básico:
 
 * Encontrar la tarjeta gráfica más barata:
 
